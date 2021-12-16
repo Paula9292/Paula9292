@@ -1,5 +1,5 @@
 - 👋 Hi,I'm Paulina
-- 🧑‍💻 Junior Front-end developer
+- 💻 Junior Front-end developer
 - 👀 I'm looking for first job or intern
 
 - 📫 paulina.err@gmail.com
